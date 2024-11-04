@@ -1,0 +1,14 @@
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.AssemblyInfoInputs.cache
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.AssemblyInfo.cs
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Options\source\repos\Scanner\Scanner\bin\Debug\net8.0\Scanner.exe
+C:\Users\Options\source\repos\Scanner\Scanner\bin\Debug\net8.0\Scanner.deps.json
+C:\Users\Options\source\repos\Scanner\Scanner\bin\Debug\net8.0\Scanner.runtimeconfig.json
+C:\Users\Options\source\repos\Scanner\Scanner\bin\Debug\net8.0\Scanner.dll
+C:\Users\Options\source\repos\Scanner\Scanner\bin\Debug\net8.0\Scanner.pdb
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.dll
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\refint\Scanner.dll
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.pdb
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\Scanner.genruntimeconfig.cache
+C:\Users\Options\source\repos\Scanner\Scanner\obj\Debug\net8.0\ref\Scanner.dll
