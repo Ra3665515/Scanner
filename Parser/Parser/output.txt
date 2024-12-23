@@ -1,0 +1,17 @@
+if                keyword           IF
+(                 specialchar       LPAREN
+x                 Identifier        ID
+==                operator          EQ
+3                 NumericConst      NUMCONST
+)                 specialchar       RPAREN
+{                 specialchar       LQURLY
+x                 Identifier        ID
+=                 operator          ASSIGN
+4                 NumericConst      NUMCONST
+;                 specialchar       SEMICOLON
+x                 Identifier        ID
+=                 operator          ASSIGN
+4                 NumericConst      NUMCONST
+;                 specialchar       SEMICOLON
+}                 specialchar       RQURLY
+
